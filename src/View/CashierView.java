@@ -4,7 +4,6 @@ import Model.LoginModel;
 import Controller.LoginController;
 import Database.DatabaseConnector;
 import static Invoice.InvoiceGenerator.generateInvoice;
-import com.google.zxing.WriterException;
 import java.awt.event.ActionEvent;
 import java.awt.event.KeyEvent;
 import java.sql.Connection;
